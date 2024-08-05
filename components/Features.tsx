@@ -19,11 +19,11 @@ const Features = () => {
         <div className="z-20 flex w-full flex-col lg:w-[60%]">
           <div className='relative'>
             <Image
-              src="/camp.svg"
+              src="/bookbite-favicon-color.png"
               alt="camp"
-              width={50}
-              height={50}
-              className="absolute left-[-5px] top-[-28px] w-10 lg:w-[50px]"
+              width={40}
+              height={40}
+              className="absolute left-[-12px] top-[-8px] w-8 lg:w-[40px]"
             />
             <h2 className="bold-40 lg:bold-64">Our Features</h2>
           </div>

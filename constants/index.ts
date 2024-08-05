@@ -1,8 +1,7 @@
 // NAVIGATION
 export const NAV_LINKS = [
   { href: '/', key: 'home', label: 'Home' },
-  { href: '/', key: 'how_hilink_work', label: 'Newletter' },
-  { href: '/', key: 'services', label: 'Services' },
+  { href: '/', key: 'services', label: 'Pricing' },
   { href: '/', key: 'contact_us', label: 'Contact Us' },
 ];
 
@@ -51,14 +50,14 @@ export const FOOTER_LINKS = [
   {
     title: 'Learn More',
     links: [
-      'About Spatial Hub',
+      'About',
       'Jobs',
       'Contact Us',
     ],
   },
   {
     title: 'Our Community',
-    links: ['Meta Horizon Worlds',  'Discord'],
+    links: ['Discord'],
   },
 ];
 
@@ -76,6 +75,5 @@ export const SOCIALS = {
     '/instagram.svg',
     '/twitter.svg',
     '/youtube.svg',
-    '/wordpress.svg',
   ],
 };
